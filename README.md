@@ -1,92 +1,192 @@
-<h1 data-importer="text" align="left">Hey 👋 I'm Shankar</h1>
+<h1 align="center">Hi 👋, I'm Shankar Patil</h1>
 
-###
+<h3 align="center">Computer Science Engineering Graduate | Full Stack Developer | AI/ML Enthusiast</h3>
 
-<p data-importer="text" align="left">My name is Shankar Patil and I'm a Computer Science Engineering student from India, passionate about Full Stack Development, AI/ML, and building practical software solutions.</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 data-importer="text" align="left">About me</h2>
+I'm a Computer Science Engineering graduate and aspiring Software Engineer passionate about building practical, scalable, and intelligent software solutions.
 
-###
+- 🚀 Passionate about **Full Stack Development, AI/ML, and Generative AI**
+- 💻 Building **real-world software applications** that solve practical problems
+- 🤖 Interested in **AI-powered applications and intelligent systems**
+- 🧠 Improving my skills in **Java, Spring Boot, DSA, Full Stack Development, and Generative AI**
+- 🔍 Enjoy **problem solving, learning new technologies, and exploring innovative ideas**
+- 🏆 Hands-on experience through **internships, hackathons, and real-world project development**
+- 🎯 Goal: Become a skilled **Software Engineer** and build impactful technology
 
-<p data-importer="text" align="left">✨ Building practical and scalable software solutions<br>📚 I'm currently learning Generative AI, Spring Boot, Full Stack Development, and DSA<br>🎯 Goals: Become a skilled Software Engineer and build impactful AI-powered applications<br>💻 Fun fact: I enjoy turning real-world problems into software projects and participating in hackathons</p>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h2 data-importer="text" align="left">I code with</h2>
+### 💻 Programming Languages
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
+### 🌐 Web Technologies
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Shankarop-git/Shankarop-git/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Shankarop-git/Shankarop-git/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Shankarop-git/Shankarop-git/output/pacman-contribution-graph.svg"
-  />
-</picture>
+### 🎨 Frontend Development
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+<p>
+  <b>JavaScript • TypeScript • React • HTML5 • CSS3 • Tailwind CSS</b>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs" />
+</p>
+
+<p>
+  <b>Java • Spring Boot • Python • Flask • FastAPI • REST APIs • JWT Authentication</b>
+</p>
+
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+<p>
+  <b>MySQL • PostgreSQL • MongoDB • Firebase • Hibernate • JPA • SQLAlchemy</b>
+</p>
+
+### 🤖 AI / ML & Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <b>Scikit-learn • Google GenAI • LangChain • Ollama • OpenCV • DeepFace • TensorFlow</b>
+</p>
+
+### 🧬 Data Science & Scientific Computing
+
+<p>
+  <b>RDKit • AutoDock Vina • OpenBabel • Molecular Fingerprinting • ADMET Profiling • Bioinformatics</b>
+</p>
+
+### 🔐 Security & Cryptography
+
+<p>
+  <b>Spring Security • JWT • AES • RSA • PyCryptodome • Image Steganography</b>
+</p>
+
+### 🧰 Development Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode,postman" />
+</p>
+
+<p>
+  <b>Git • GitHub • Docker • Maven • Postman • VS Code</b>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧬 AI-Based Drug–Pathogen Molecular Interaction Analysis
+
+An AI-powered full-stack web platform designed to support drug discovery research by predicting drug–pathogen binding affinity and molecular stability using machine learning and chem-informatics techniques.
+
+The platform enables researchers to upload molecular data, perform ADMET profiling, analyze mutation impacts, visualize molecular insights, and generate downloadable reports.
+
+**Tech Stack:** React • JavaScript • Python • Flask • Flask-JWT-Extended • SQLAlchemy • REST APIs • Scikit-learn • Random Forest • Google GenAI • RDKit • AutoDock Vina • OpenBabel • PostgreSQL • SQLite • ReportLab • Docker
+
+---
+
+### 🤖 AI Developer Assistant – CodePilot AI
+
+A Generative AI-powered developer assistant designed to help developers write, understand, debug, review, and improve code.
+
+The platform provides AI-powered coding assistance, code generation, debugging, code analysis, GitHub repository analysis, and intelligent developer tools through a modern web interface.
+
+**Tech Stack:** React • TypeScript • Spring Boot • FastAPI • Google GenAI • Ollama • LangChain • PostgreSQL • Docker
+
+---
+
+### 👁️ Intelligent AI Attendance System
+
+An AI-powered attendance management platform that automates attendance using facial recognition and computer vision.
+
+The system provides real-time attendance tracking, automated attendance marking, secure authentication, attendance analytics, and management dashboards.
+
+**Tech Stack:** React • Python • Flask • OpenCV • DeepFace • TensorFlow • PostgreSQL • JWT • Docker
+
+---
+
+### 🔐 SecureMessage – Secure End-to-End Encrypted Communication System
+
+A secure communication system developed during my software development internship, combining biometric face verification, encryption, and secure data protection techniques to provide authenticated and protected communication.
+
+**Tech Stack:** Python • Flask • PostgreSQL • Flask-SQLAlchemy • OpenCV • DeepFace • TensorFlow • PyCryptodome • AES • RSA • Image Steganography
+
+---
+
+## 💼 Internship Experience
+
+### Software Development Intern – Exposys Data Labs
+
+Worked on developing a secure communication system and gained hands-on experience in full-stack development, backend API development, database integration, authentication, computer vision, and data security.
+
+**Key Technologies:** Python • Flask • PostgreSQL • Flask-SQLAlchemy • OpenCV • DeepFace • TensorFlow • AES • RSA • PyCryptodome • Image Steganography
+
+---
+
+## 🎯 Areas of Interest
+
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Generative AI
+- Backend Development
+- Data Structures & Algorithms
+- Problem Solving
+- Computer Vision
+- Software Engineering
+- Building Practical Software Solutions
+
+---
+
+## 📌 Currently Exploring
+
+- ☕ Advanced Java & Spring Boot
+- 🧩 Data Structures & Algorithms
+- 🤖 Generative AI & LLM Applications
+- 🔗 Retrieval-Augmented Generation (RAG)
+- 🐳 Docker & Application Deployment
+- 🌐 Scalable Full Stack Application Development
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Shankarop-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Building. Learning. Solving. Growing.</i>
+</p>
