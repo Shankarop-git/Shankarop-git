@@ -5,6 +5,15 @@
   </picture>
 </p>
 
+<h2 align="center">📊 GitHub Contributions</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shankarop-git/github-snake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shankarop-git/github-snake/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Shankarop-git/github-snake/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  </picture>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shankar Patil</h1>
 <h3 align="center">Computer Science Engineering Graduate | Full Stack Developer | AI/ML Enthusiast</h3>
 
