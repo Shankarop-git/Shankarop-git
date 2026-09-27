@@ -1,8 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Shankar Patil — Full Stack Developer & AI/ML Enthusiast profile banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark2.svg">
+    <img src="./dark2.svg" alt="Shankar Patil — Full Stack Developer & AI/ML Enthusiast profile banner" width="100%">
   </picture>
 </p>
 
